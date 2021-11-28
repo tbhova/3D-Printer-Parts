@@ -16,7 +16,7 @@ The printer uses Marlin. The firmware branch (rebased occasionally) and config a
 * Y belt holder is TODO
 * X motor holder is TODO
 * X idler is TODO
-* Z Motor holders are MK3 (TODO are they S or non-S?)
+* Z Motor holders are MK3S
 * Spool holder is TODO
 * Electronics case WIP
 * PSU case WIP
