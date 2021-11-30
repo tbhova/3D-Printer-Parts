@@ -11,7 +11,7 @@ The printer uses Marlin. The firmware branch (rebased occasionally) and config a
   * Using the no-sensor version, but there is a filament runout sensor version
 * The extruder cover and fan shroud are from the [DissEd BMG remix alternative cooling fan](https://www.thingiverse.com/thing:4616905)
 * Y corners are MK2S corners modified for larger 10mm washers
-* Y motor holder is the MK2 one with the endstop holder removed (could switch to MK2S)
+* Y motor holder is the MK2S one with the endstop holder removed
 * Y idler is TODO
 * Y belt holder is TODO
 * X motor holder is TODO
