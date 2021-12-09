@@ -29,7 +29,7 @@ The printer uses Marlin. The firmware branch (rebased occasionally) and config a
 * Sensorless endstops
 * 3DTouch (generic BLTouch) probe
 * 24V BigTreeTech MK52 heated bed
-* Meanwell 24V PSU
+* Mean Well LRS-350-24 24V PSU
 * Triangle Labs E3D all metal hotend + included heater cartridge & thermistor
 * Triangle Labs 2021 version BMG extruder
 * Pancake extruder stepper
